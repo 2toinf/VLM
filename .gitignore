@@ -1,0 +1,8 @@
+*.jpg
+*.pth
+*.zip
+*.pyc
+*.ckpt
+*.chk
+*.model
+*.json
